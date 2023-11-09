@@ -35,5 +35,29 @@ ________________________________________________________________________________
 
 📚 Data structures are designed such that they characterise the objects.
 
-📚 Data is hidden and cannot be accessed by external functions
+📚 Data is hidden and cannot be accessed by external functions.
+
+📚 Objects may communicate with each other through functions.
+
+📚 New data and functions can be easily added whenever necessary.
+
+📚 Follows bottom-up approach in program design
+
+### 📙 Basic concepts of OOP
+
+📚 Objects
+
+📚 Classes 
+
+📚 Data abstraction and encapsulation
+
+📚 Inheritance
+
+📚 Polymorphism
+
+📚 Dynamic Binding
+
+📚 Message Passing
+
+### 📙
 
