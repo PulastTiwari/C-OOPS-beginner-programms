@@ -19,4 +19,16 @@ This tutorial comprises of basics of important concepts used in OOPS along with 
 
 ____________________________________________________________________________________________________________________________________________________
 
+# 👨‍💻 Module 1
+
+📚 OOP treats data as a critical element in the program development and does not allow it to flow freely around the system.
+📚 It ties more data closely to the functions that operate on it, and protects it from accidental modification from ooutside functions.
+📚 It allows decomposition of a problem into a number of entities called objects and then builds data and functions around these objects.
+
+### 💎 Features of OOP
+
+📚 Emphasis is on data rather than procedure.
+📚 Programs are divided into what are known as objects.
+📚 Data structures are designed such that they characterise the objects.
+📚 Data is hidden and cannot be accessed by external functions
 
