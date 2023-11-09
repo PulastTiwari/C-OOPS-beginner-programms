@@ -59,5 +59,23 @@ ________________________________________________________________________________
 
 📚 Message Passing
 
-### 📙
+### 📙 Objects
+
+📚 These are the basic run time entities in an object-oriented system. They may define as anything which is a group or collection.
+
+📚 Programming problem is analysed in terms of objects and the nature of communication between them.
+
+📚 Program objects should be chosen such that they match closely with the real-world objects.
+
+📚 Object interacts by sending messages to one another.
+
+### 📙 Classes
+
+📚 The 
+
+
+
+
+
+
 
