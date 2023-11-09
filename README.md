@@ -19,7 +19,7 @@ This tutorial comprises of basics of important concepts used in OOPS along with 
 
 ____________________________________________________________________________________________________________________________________________________
 
-# 👨‍💻 Module 1
+## 👨‍💻 Module 1: Introduction to Object Oriented Programming
 
 📚 OOP treats data as a critical element in the program development and does not allow it to flow freely around the system.
 
