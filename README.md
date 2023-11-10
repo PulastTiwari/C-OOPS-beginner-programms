@@ -79,7 +79,7 @@ ________________________________________________________________________________
 
 📚 To define a class then the sytax statement is 
 
-                                                ClassName ObjectName;
+    ClassName ObjectName;
 
 ### 📙 Data Encapsulation 
 
@@ -137,7 +137,7 @@ ________________________________________________________________________________
 
 📚 Message passing invloves specifying the name of the object, the name of the function and the information to be sent.
 
-                                                       Object.message(information);
+    Object.message(information);
 
 ### 📙 Benefits of OOP
 
