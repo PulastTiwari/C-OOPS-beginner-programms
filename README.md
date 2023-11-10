@@ -71,7 +71,34 @@ ________________________________________________________________________________
 
 ### 📙 Classes
 
-📚 The 
+📚 The entire set of data and code of an object can be made a used-defined data type with the help of a class.
+
+📚 Once a class has been defined, we can create any number of objects belonging to that class.
+
+📚 They are user defined data types and behave like the built in types of a programming language.
+
+📚 To define a class then the sytax statement is 
+
+                                                ClassName ObjectName;
+
+### 📙 Data Encapsulation 
+
+📚 The wrapping up of data and fucntions into a single unit is known as encapsulation.
+
+📚 Data is only accessible to the functions of the class and these functions provide the interface between the object's data and the program.
+
+📚 The insulation of the data from direct access by the program is called data hiding.
+
+### 📙 Data Abstraction
+
+📚 It refers to the act of representing essential features without including the background details or explanations.
+
+📚 They are list of attribute
+
+
+                                      
+
+
 
 
 
