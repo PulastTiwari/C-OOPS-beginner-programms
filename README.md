@@ -93,7 +93,66 @@ ________________________________________________________________________________
 
 📚 It refers to the act of representing essential features without including the background details or explanations.
 
-📚 They are list of attribute
+📚 They are list of attributes and functions to operate on these attributes.
+
+📚 They encapsulate all the essential propeties of the objects that are to be created. The attributes are sometimes called data members.
+
+📚 The functions that operates on data members are called member functions.
+
+📚 Classes are also known as Abstract Data Types.
+
+### 📙 Inheritance
+
+📚 Inheritance is the process by which objects of one class acqire the properties of objects of another class.
+
+📚 It supports the concepts of hierarchial classification.
+
+📚 The priniciple behind division is that each derived class shares common characterstics with the class which it is derived.
+
+📚 Here you can do reusability by deriving a new class from the existing one. This is a way to add additional features to an existing class without modifying it.
+
+📚 Each sub-class defines only those features that are unique to it.
+
+### 📙 Polymorphism
+
+📚 It allows objects having different internal structures to share the same external interface. 
+
+📚 General class of operations may be accessed in the same manner even though specific actions associated with each operation may differ.
+
+📚 Polymorphism is used in implementing inheritance.
+
+📚 Operator Overloading - The process of making an operator to exhibit different behaviours in different instances.
+
+### 📙 Dynamic Binding
+
+📚 Binding refers to the linking of a procedure call to the code to be executed in response to the call.
+
+📚 Dynamic binding means that the code associated with a given proceduure call is not known until the time of the class at run-time.
+
+📚 A function call associated with a polymorphic reference depends on the dynaamic type of that reference.
+
+### 📙 Message Passing
+
+📚 A message for an object is a request for execution of a procedure, and therefore will invoke a function in the receiving object that generates the desired result.
+
+📚 Message passing invloves specifying the name of the object, the name of the function and the information to be sent.
+
+                                                       Object.message(information);
+
+### 📙 Benefits of OOP
+
+📚 Through inheritance, we can eliminate redundant code and extend the use of existing classes.
+
+📚 The priniciple of data hiding helps the programmer to build secure programs.
+
+📚 It is possible to have multiple instances of an object to co-exist without any interference.
+
+📚 It is possible to map objects in the problem domain to those in the program .
+
+📚 It is easy to partition the work in a project based on objects.
+
+📚 Software complexity can be easily managed.
+
 
 
                                       
